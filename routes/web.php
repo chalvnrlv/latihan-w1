@@ -19,8 +19,13 @@ Route::get('/posts', function () {
         ],
         [
             'title' => 'LOREM IPSUM 2',
-            'author' => 'Chalvin Reza',
-            'body' => 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Nam voluptatibus velit illo explicabo! Unde nobis vel nam. Saepe itaque aperiam ipsum ab est, voluptas rerum sed at delectus unde odio.'
+            'author' => 'Reza Farrel',
+            'body' => 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Alias, maiores sit minima esse reprehenderit sed excepturi voluptate voluptatibus, aspernatur nemo delectus assumenda molestias deserunt labore praesentium provident impedit ratione error!'
+        ],
+        [
+            'title' => 'LOREM IPSUM 3',
+            'author' => 'Chalvin Farrel',
+            'body' => 'Lorem ipsum dolor sit amet consectetur, adipisicing elit. Necessitatibus, quidem distinctio perspiciatis fugiat aperiam eligendi. Perspiciatis ea expedita eius inventore in tempore architecto, nostrum error at animi ex, hic recusandae.'
         ]
     ]]);
 });
