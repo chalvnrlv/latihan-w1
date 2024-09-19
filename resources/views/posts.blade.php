@@ -15,7 +15,7 @@
         <div class="text-base text-gray-500">
             <a href="#">Chalvin Reza</a> | 18 September 2024
         </div>
-        <p class="my-4 font-light">Lorem ipsum dolor sit amet consectetur adipisicing elit. Nam voluptatibus velit illo explicabo! Unde nobis vel nam. Saepe itaque aperiam ipsum ab est, voluptas rerum sed at delectus unde odio.</p>
+        <p class="my-4 font-light">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quia voluptatem voluptate ipsum nulla, ad, voluptatibus architecto perspiciatis quidem quos ea impedit sed vero quibusdam necessitatibus dolores itaque velit quam nemo.</p>
         <a href="" class="font-medium text-blue-500">Read more &raquo;</a>
     </article>
 
